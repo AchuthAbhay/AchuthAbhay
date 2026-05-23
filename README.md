@@ -68,7 +68,7 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: achuthabhay0@gmail.com
-- 🔗 LinkedIn: add your LinkedIn link here
+- 🔗 LinkedIn: https://www.linkedin.com/in/achuth-abhay-0757762b0/
 - 💻 GitHub: https://github.com/AchuthAbhay
 
 ---
