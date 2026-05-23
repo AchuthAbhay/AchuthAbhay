@@ -74,23 +74,6 @@ Published in **IJCRT** — End-to-end AI pipeline for meeting transcription, spe
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AchuthAbhay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchuthAbhay&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AchuthAbhay&label=Profile+Views&color=blue&style=flat" />
