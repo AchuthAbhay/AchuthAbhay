@@ -121,18 +121,7 @@ End-to-end AI architecture for automated meeting documentation using ASR, speake
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchuthAbhay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchuthAbhay&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchuthAbhay&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
