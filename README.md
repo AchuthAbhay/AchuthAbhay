@@ -2,9 +2,8 @@
 <h3 align="center">AI/ML Engineer • GenAI Builder • Backend Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/achuth-abhay-0757762b0/">LinkedIn</a> •
   <a href="mailto:achuthabhay0@gmail.com">Email</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
 ---
@@ -70,7 +69,7 @@
 
 📑 **From Audio To Action: Automated Meeting Documentation Framework**  
 Published in **IJCRT** — End-to-end AI pipeline for meeting transcription, speaker diarization, and summarization.  
-[🔗 Read Paper](#)
+[🔗Read Paper](https://www.ijcrt.org/papers/IJCRT2511811.pdf)
 
 ---
 
