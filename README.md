@@ -111,10 +111,6 @@ An AI-powered HR assistant with semantic document retrieval, automated email gen
 A geospatial analytics pipeline for agricultural monitoring using satellite imagery and vegetation indices.  
 **Tech:** Google Earth Engine, Python, NDVI, NDWI, EVI
 
-#### 4. InsightFlow AI
-A transcript intelligence platform for meeting automation, transcript storage, and retrieval-based AI workflows.  
-**Tech:** Flask, Qdrant, Groq, AssemblyAI, PostgreSQL, SQLite
-
 ---
 
 ### 📄 Publication
@@ -144,7 +140,7 @@ End-to-end AI architecture for automated meeting documentation using ASR, speake
   <a href="https://github.com/AchuthAbhay" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/achuth-abhay-0757762b0/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/AchuthAbhay/" target="_blank">
