@@ -1,154 +1,152 @@
-<h1 align="center">Hi 👋, I'm Achuth Abhay</h1>
-<h3 align="center">AI/ML Engineer • GenAI Builder • RAG Systems • Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AchuthAbhay&label=Profile%20Views&color=00d4ff&style=flat" alt="AchuthAbhay" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2a7a6f&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focused%20On-AI%20Systems-00d4ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-GenAI%20%26%20RAG-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20FastAPI-111827?style=for-the-badge" />
-</p>
+# Achuth Abhay
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C8A84B&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+GenAI+Builder;LLM+Evaluation+%26+Safety+Researcher;RAG+Systems+%7C+Backend+Developer;Final-Year+AIML+@+ISBM+Pune" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
+<br/>
 
-I’m a final-year B.E. student in Artificial Intelligence & Machine Learning at ISBM College of Engineering, Pune, building practical AI systems that combine GenAI, RAG, backend APIs, and workflow automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-achuth--abhay-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achuth-abhay-0757762b0/)
+[![Email](https://img.shields.io/badge/Email-achuthabhay0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achuthabhay0@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AchuthAbhay-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AchuthAbhay/)
+[![Profile Views](https://komarev.com/ghpvc/?username=AchuthAbhay&label=Profile+Views&color=2a7a6f&style=flat-square)](https://github.com/AchuthAbhay)
 
-I’ve worked as a Generative AI Intern at Tata Communications, where I evaluated speech and LLM systems, guardrails, and model safety, and as a Python Developer Intern at Infosys Springboard, where I built Flask-based REST APIs and analytics dashboards.
-
-My focus is on creating AI products that are not just impressive in demos, but also useful, scalable, and production-ready.
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## About
 
-- AI Agents
-- LangGraph
-- MLOps
-- System Design
-- Advanced LLM Application Development
-- Scalable Backend Architecture
+Final-year B.E. (AIML) student who ships production-grade AI systems — not just demos. I specialise in **LLM evaluation, RAG pipelines, and backend AI infrastructure**.
 
----
+Interned at **Tata Communications** doing GenAI safety research (adversarial datasets, Llama Guard, NeMo Guardrails). Previously at **Infosys Springboard** building analytics APIs. Published researcher in automated meeting documentation using ASR + speaker diarization.
 
-## 👯 Collaboration Interests
-
-- Open-source AI/ML projects
-- GenAI tools and workflows
-- RAG systems and vector databases
-- Backend systems with practical impact
-- AI product experimentation and applied research
+Currently looking for **AI Engineer / ML Engineer roles in Pune & Bangalore**.
 
 ---
 
-## 🤝 Looking for Help With
+## Highlights
 
-- Production-grade AI workflows
-- Deployment best practices
-- Scaling AI applications
-- Evaluation strategies for LLM systems
-- Building stronger portfolio-ready projects
-
----
-
-## 💬 Ask Me About
-
-- Python
-- FastAPI
-- Flask
-- REST APIs
-- RAG
-- Qdrant
-- LangChain
-- LLM evaluation
-- Meeting intelligence systems
-- Geospatial AI and remote sensing
+| | |
+|---|---|
+| 🏢 **Tata Communications** | GenAI Intern — LLM evaluation, adversarial datasets, guardrail frameworks (Llama Guard, NeMo) |
+| 🏢 **Infosys Springboard** | Python Developer Intern — Flask REST APIs, analytics dashboards, Scrum Master |
+| 📄 **Published Paper** | [From Audio To Action: Automated Meeting Documentation](https://ijcrt.org) — IJCRT |
+| 🚀 **Deployed Systems** | 3 production-grade AI apps on AWS EC2 with FastAPI + Docker |
 
 ---
 
-## 📫 Connect
+## Featured Projects
 
-- **Email:** [achuthabhay0@gmail.com](mailto:achuthabhay0@gmail.com)
-- **LinkedIn:** [achuth-abhay-0757762b0](https://www.linkedin.com/in/achuth-abhay-0757762b0/)
-- **GitHub:** [AchuthAbhay](https://github.com/AchuthAbhay)
-- **LeetCode:** [AchuthAbhay](https://leetcode.com/u/AchuthAbhay/)
+### 🎙 [InsightFlow — Meeting Intelligence System](https://github.com/AchuthAbhay)
+> Convert any audio, live session, or YouTube content into structured intelligence
 
----
+Flask-based platform with modular AI pipelines: transcription → summarisation → action-item extraction → sentiment analysis → translation → **transcript-aware RAG chat**.
 
-## ⚡ Fun Fact
+Built a centralised transcript storage layer (SQLite + file store + Qdrant vector index) enabling reusable AI processing across all product modules.
 
-I enjoy turning complex AI workflows into clean, usable products that feel simple on the outside but are powerful on the inside.
+`Flask` `AssemblyAI` `Groq` `Qdrant` `SQLite` `TextBlob` `AWS EC2` `Docker`
 
 ---
 
-## 🛠️ Tech Stack
+### 🤖 [RAG-Based HR Policy Retrieval & Analytics System](https://github.com/AchuthAbhay)
+> Semantic document retrieval + automated email generation for HR workflows
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,docker,mongodb,mysql,postgres,aws,linux" />
-</p>
+End-to-end RAG pipeline: document ingestion → chunking → embedding → Qdrant vector search → context-aware LLM response. Dual-database architecture (Qdrant for retrieval + MongoDB for analytics logging). Includes evaluation dashboard with retrieval quality metrics.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,streamlit,jupyter,pandas,numpy" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-PyTorch%20%7C%20Scikit--learn%20%7C%20RAG-00d4ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20FastAPI%20%7C%20WebSockets-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20Qdrant-111827?style=for-the-badge" />
-</p>
+`FastAPI` `LangChain` `Qdrant` `MongoDB` `Streamlit` `Docker`
 
 ---
 
-## 🚀 Featured Projects
+### 🛰 [Satellite-Based Crop Monitoring System](https://github.com/AchuthAbhay)
+> Agricultural intelligence from satellite imagery at field scale
 
-### 1. Meeting Intelligence System
-A Flask-based platform that converts uploaded audio, live session input, and YouTube content into structured transcripts, then generates summaries, action items, sentiment insights, translations, and transcript-aware chat.  
-**Tech:** Flask, AssemblyAI, Groq, Qdrant, SQLite, TextBlob
+Geospatial data pipeline using Google Earth Engine: cloud masking → image compositing → multi-index vegetation analysis (NDVI, NDWI, EVI) → temporal trend visualisation. Designed for scalable agricultural monitoring across large land areas.
 
-### 2. RAG-Based HR Policy Retrieval & Analytics System
-An AI-powered HR assistant with semantic document retrieval, automated email generation, and analytics workflows.  
-**Tech:** FastAPI, LangChain, Qdrant, MongoDB, Streamlit
-
-### 3. Satellite-Based Crop Monitoring System
-A geospatial analytics pipeline for agricultural monitoring using satellite imagery and vegetation indices.  
-**Tech:** Google Earth Engine, Python, NDVI, NDWI, EVI
+`Google Earth Engine` `Python` `Geospatial Analytics` `Remote Sensing`
 
 ---
 
-## 📄 Publication
+## Publication
 
-**From Audio To Action: Automated Meeting Documentation Framework**  
-Published in IJCRT  
-End-to-end AI architecture for automated meeting documentation using ASR, speaker diarization, and summarization models.
+📄 **From Audio To Action: Automated Meeting Documentation Framework**
+*International Journal of Creative Research Thoughts (IJCRT)*
 
----
+Proposed a modular multi-stage AI architecture for automated meeting documentation. Covered ASR, speaker diarization, summarisation, parallel execution strategies to reduce latency, and structured integration with Google Calendar, Trello, and Jira.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchuthAbhay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchuthAbhay&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchuthAbhay&theme=tokyonight&hide_border=true" />
-</p>
+→ [Read the Paper](https://ijcrt.org)
 
 ---
 
-## 🔗 Connect with Me
+## What I'm Building Now
 
-<p align="center">
-  <a href="https://github.com/AchuthAbhay" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/achuth-abhay-0757762b0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/AchuthAbhay/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+```
+🔧  Distributed Task Queue Engine    FastAPI + Redis + Celery + Docker
+     Priority scheduling, retry logic, worker coordination, dead-letter queues
+
+📚  Study                            Neetcode DSA roadmap (Arrays → Graphs → DP)
+                                     "Designing Data-Intensive Applications" Ch.1, 5, 8
+                                     ML System Design — chip.huyen.com
+
+🎯  Target                           AI Engineer roles · Pune & Bangalore · 2026
+```
+
+---
+
+## Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Databases & Vector Search**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Specialisations**
+
+![RAG](https://img.shields.io/badge/RAG_Pipelines-2a7a6f?style=flat-square)
+![LLM Eval](https://img.shields.io/badge/LLM_Evaluation-C8A84B?style=flat-square)
+![Speech AI](https://img.shields.io/badge/Speech_AI_%26_ASR-7c3aed?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-1a1a2e?style=flat-square)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AchuthAbhay&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c8a84b&icon_color=2a7a6f&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchuthAbhay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c8a84b&text_color=ffffff" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AchuthAbhay&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c8a84b&fire=c8a84b&currStreakLabel=c8a84b" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The goal is not to integrate AI into products. The goal is to build AI that is the product."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a7a6f,50:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
+
+</div>
