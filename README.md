@@ -35,7 +35,7 @@ Currently looking for **AI Engineer / ML Engineer roles in Pune & Bangalore**.
 |---|---|
 | 🏢 **Tata Communications** | GenAI Intern — LLM evaluation, adversarial datasets, guardrail frameworks (Llama Guard, NeMo) |
 | 🏢 **Infosys Springboard** | Python Developer Intern — Flask REST APIs, analytics dashboards, Scrum Master |
-| 📄 **Published Paper** | [From Audio To Action: Automated Meeting Documentation](https://ijcrt.org) — IJCRT |
+| 📄 **Published Paper** | [From Audio To Action: Automated Meeting Documentation](https://www.ijcrt.org/papers/IJCRT2511811.pdf) — IJCRT |
 | 🚀 **Deployed Systems** | 3 production-grade AI apps on AWS EC2 with FastAPI + Docker |
 
 ---
@@ -78,7 +78,7 @@ Geospatial data pipeline using Google Earth Engine: cloud masking → image comp
 
 Proposed a modular multi-stage AI architecture for automated meeting documentation. Covered ASR, speaker diarization, summarisation, parallel execution strategies to reduce latency, and structured integration with Google Calendar, Trello, and Jira.
 
-→ [Read the Paper](https://ijcrt.org)
+→ [Read the Paper](https://www.ijcrt.org/papers/IJCRT2511811.pdf)
 
 ---
 
