@@ -130,18 +130,6 @@ Proposed a modular multi-stage AI architecture for automated meeting documentati
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AchuthAbhay&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c8a84b&icon_color=2a7a6f&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchuthAbhay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c8a84b&text_color=ffffff" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AchuthAbhay&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c8a84b&fire=c8a84b&currStreakLabel=c8a84b" width="60%" />
-
-</div>
-
----
 
 <div align="center">
 
